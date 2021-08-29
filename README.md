@@ -1,4 +1,4 @@
-Pet Store
+Pet Store: the platform to pick up your boss. 
 <html>
   <head>
   <hr>       

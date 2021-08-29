@@ -1,11 +1,7 @@
-pet store
+Pet Store
 <html>
   <head>
-  <hr>
-<style>
-background: white;
-</style>
-       
+  <hr>       
  </head>
 
 <main>
